@@ -2,3 +2,4 @@
 
 learn
 local learn
+remote learn
